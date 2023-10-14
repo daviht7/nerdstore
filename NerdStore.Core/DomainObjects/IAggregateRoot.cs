@@ -1,6 +1,6 @@
 ﻿namespace NerdStore.Core.DomainObjects
 {
-    public interface IAgreggateRoot
+    public interface IAggregateRoot
     {
     }
 }
