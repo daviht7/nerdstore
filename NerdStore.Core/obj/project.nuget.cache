@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GtHJJv9tPx3YMczbtYgJ95RJ3IeRMku4OfzCWjyDFUZSpAIjNxHNH1MAs59rIM+E6SHRspa7HrPf9YLFb/PWSA==",
+  "dgSpecHash": "/+sU1jszOWfvsU4Biwu3jBltggcxjst+pno1nZt/D67bFg1BxiWKeOtnZu9ZSRnOaxTOeI61khW2LcZfgzwW8A==",
   "success": true,
   "projectFilePath": "C:\\Fonte\\csharp\\curso-dominio-rico\\NerdStore\\NerdStore.Core\\NerdStore.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dwesl\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\dwesl\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\dwesl\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
